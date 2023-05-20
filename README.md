@@ -1,4 +1,4 @@
-![Header Image](https://tenor.com/view/minecraft-aesthetic-background-gif-22100684)
+![MasterHead](https://tenor.com/view/minecraft-aesthetic-background-gif-22100684)
 
 <!-- About Me -->
 ## ℹ️ About Me
@@ -15,8 +15,8 @@ Here are some of the skills I bring to the Minecraft server development realm:
 ## 📫 Contact
 If you're interested in discussing Minecraft server development, collaborating on projects, or have any inquiries, feel free to reach out to me through:
 
-- Email: [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:gnzz6527@gmail.com)
-- Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/Gnzz#1121)
+[![Gmail Badge](https://img.shields.io/badge/-gnzz6527@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnzz6527@gmail.com)](mailto:gnzz6527@gmail.com)
+[![Discord Badge](https://img.shields.io/badge-Gnzz#1121-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/Gnzz#1121)
 
 I'm always excited to connect and work on exciting Minecraft server projects!
 
