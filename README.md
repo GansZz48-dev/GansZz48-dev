@@ -20,5 +20,5 @@ If you're interested in discussing Minecraft server development, collaborating o
 I'm always excited to connect and work on exciting Minecraft server projects!
 
 ## 🎉 Footer
-Thanks for visiting my GitHub profile. If you have any questions about Minecraft server development you can contact me. Thankyou! :smiley:
+Thanks for visiting my GitHub profile. If you have any questions about Minecraft server development you can contact me. Thankyou!
 
