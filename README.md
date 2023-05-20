@@ -1,7 +1,7 @@
 
 <!-- About Me -->
 ## ℹ️ About Me
-Greetings! I'm GansZz48, a dedicated Minecraft server developer with a passion for creating immersive gameplay experiences. I specialize in plugin development, server configuration, Minecraft world customization, and implementing various essential systems.
+Hi, I'm GansZz48, a dedicated Minecraft server developer with a passion for creating immersive gameplay experiences. I specialize in plugin development, server configuration, Minecraft world customization, and implementing various essential systems.
 
 ## 💪 Skills
 Here are some of the skills I bring to the Minecraft server development realm:
