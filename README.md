@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gnzz6527@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gnzz6527@gmail.com)](mailto:gnzz6527@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/GansZz48-dev-blue?style=flat&logo=github&logoColor=white&link=https://github.com/GansZz48-dev/)](https://www.github.com/GansZz48-dev/)
 
-<p align='left'>I am a junior is interested in technology especially programming</p>
+<p align='left'>I am a newbie is interested in technology especially programming</p>
 
 <h2>My Github Stats</h2>
 
