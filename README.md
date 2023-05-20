@@ -1,8 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60px">
-  <h1 align="center">Welcome to my Minecraft Server Development World! 👋</h1>
-</p>
+![Header Image](https://tenor.com/view/minecraft-aesthetic-background-gif-22100684)
 
 <!-- About Me -->
 ## ℹ️ About Me
@@ -10,6 +6,7 @@ Greetings! I'm GansZz48, a dedicated Minecraft server developer with a passion f
 
 ## 💪 Skills
 Here are some of the skills I bring to the Minecraft server development realm:
+
 - 🧪 Plugin Development: Proficient in enhance the overall player experience.
 - ⚙️ Server Configuration: Experienced in optimizing server performance, configuring essential server settings, and managing server resources for optimal gameplay.
 - 🗺️ Minecraft World Customization: Skilled in creating unique and captivating Minecraft worlds, including terrain generation, custom structures, and world generation modifications.
@@ -18,11 +15,11 @@ Here are some of the skills I bring to the Minecraft server development realm:
 ## 📫 Contact
 If you're interested in discussing Minecraft server development, collaborating on projects, or have any inquiries, feel free to reach out to me through:
 
-- 📧 Email: gnzz6527@gmail.com
-- 💬 Discord: Gnzz#1121
-- 🌐 Website: Coming Soon
+- Email: [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:gnzz6527@gmail.com)
+- Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/Gnzz#1121)
 
 I'm always excited to connect and work on exciting Minecraft server projects!
 
-<!-- Footer -->
-<p align="center">Thank you for visiting my Minecraft server development world! Let's create extraordinary Minecraft experiences together! 🚀🎮</p>
+## 🎉 Footer
+Thanks for visiting my GitHub profile. If you have any questions about Minecraft server development you can contact me. Thankyou! :smiley:
+
